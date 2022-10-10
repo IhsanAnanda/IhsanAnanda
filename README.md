@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IhsanAnanda
 - 👀 I’m interested in Artificial Intelligence(AI), Machine Learning, and Data Science
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on AI related projects
 - 📫 You can reach me via gmail ihsan.ananda1@gmail.com
 
