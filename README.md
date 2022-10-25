@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IhsanAnanda
-- 👀 I’m interested in Artificial Intelligence(AI), Machine Learning, and Data Science
+- 👀 I’m interested in Artificial Intelligence(AI), Machine Learning, Data Science, and Software Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on AI related projects
+- 💞️ I’m looking to collaborate on AI related projects and Software Development
 - 💼 My LinkedIn profile www.linkedin.com/in/ihsananandapratama
 - 📫 You can reach me via gmail ihsan.ananda1@gmail.com
 
